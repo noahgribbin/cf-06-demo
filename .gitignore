@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 # User defined
 .DS_Store
 *.diff
 
+=======
+>>>>>>> 6e213db90762ffc1d91352fcf43a4793a446e88a
 # Logs
 logs
 *.log
@@ -40,7 +43,11 @@ build/Release
 node_modules/
 jspm_packages/
 
+<<<<<<< HEAD
 # Typescript v1 declaration files
+=======
+# TypeScript v1 declaration files
+>>>>>>> 6e213db90762ffc1d91352fcf43a4793a446e88a
 typings/
 
 # Optional npm cache directory
@@ -60,3 +67,9 @@ typings/
 
 # dotenv environment variables file
 .env
+<<<<<<< HEAD
+=======
+
+# next.js build output
+.next
+>>>>>>> 6e213db90762ffc1d91352fcf43a4793a446e88a
